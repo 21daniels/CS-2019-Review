@@ -3,9 +3,9 @@
 ### Question 1
 
 ```markdown
-public turnLeft() {											
-  turnRight();											
-  turnRight();											
-  turnRight();										
+public turnLeft() {
+  turnRight();
+  turnRight();
+  turnRight();
 }
 ```
