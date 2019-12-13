@@ -85,3 +85,29 @@ for (int i = 0; i < 9; i++) {
 107
 
 ### Question 20
+```
+```
+
+### Question 21
+Karel will keep spinning to the left infinitely
+
+### Question 22
+```
+if (condition) {
+    code;
+}
+```
+
+### Question 23
+```
+while (true) {
+    if (frontIsBlocked()) {
+        turnLeft();
+    }
+    else {
+        move();
+    }
+}
+```
+
+### Question 24
