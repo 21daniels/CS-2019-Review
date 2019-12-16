@@ -160,15 +160,10 @@ double tempurature = 70.4;
 #### Question 35
 ```
 ! - NOT
-
 & - AND
-
 | - OR
-
 ^ - XOR
-
 && - Conditional AND
-
 || - Conditional OR
 ```
 
@@ -176,12 +171,11 @@ double tempurature = 70.4;
 All even numbers from 0 to 100 not including 100.
 
 #### Question 37
+```
 10
-
 7
-
 4
-
+```
 
 #### Question 38
 5
@@ -263,10 +257,10 @@ Void means a method doesn't return a value.
 18
 
 #### Question 57
-Nothing
+Nothing, there is no return statement.
 
 #### Question 58
-
+0
 
 #### Question 59
 
