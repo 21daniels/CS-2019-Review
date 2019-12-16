@@ -16,14 +16,14 @@ By creating a new method
 So that it’s more readable
 
 ### Question 6
-```
+```java
 public moveForward() {
     move();
 }
 ```
 
 ### Question 7
-```
+```java
 public turnLeft() {
   turnRight();
   turnRight();
@@ -41,7 +41,7 @@ Run
 public
 
 ### Question 11
-```
+```java
 public turnRight() {
     turnLeft();
     turnLeft();
@@ -56,14 +56,14 @@ A new command that Karel knows
 When you break down a program into multiple other problems or methods
 
 ### Question 14
-```
+```java
 /*
  * Multi Line Comment
  */
 ```
 
 ### Question 15
-```
+```java
 //Single Line Comment
 ```
 
@@ -71,14 +71,14 @@ When you break down a program into multiple other problems or methods
 public class Karel extends SuperKarel
 
 ### Question 17
-```
+```java
 for (int i = 0; i < 7; i++) {
     move();
 }
 ```
 
 ### Question 18
-```
+```java
 for (int i = 0; i < 9; i++) {
 }
 ```
@@ -87,7 +87,7 @@ for (int i = 0; i < 9; i++) {
 107
 
 ### Question 20
-```
+```java
 
 ```
 
@@ -95,14 +95,14 @@ for (int i = 0; i < 9; i++) {
 Karel will keep spinning to the left infinitely
 
 ### Question 22
-```
+```java
 if (condition) {
     code;
 }
 ```
 
 ### Question 23
-```
+```java
 while (true) {
     if (frontIsBlocked()) {
         turnLeft();
@@ -115,14 +115,14 @@ while (true) {
 
 ### Question 24
 I would use a for loop
-```
+```java
 for (int i = 0; i < 400; i++) {
 } 
 ```
 
 ### Question 25
 I would use a while loop
-```
+```java
 while(ballIsPresent()) {
     takeBall();
 }
@@ -141,7 +141,7 @@ boolean, char, int, long, byte, short, float
 4
 
 ### Question 30
-```
+```java
 double tempurature = 70.4;
 ```
 
@@ -159,11 +159,17 @@ double tempurature = 70.4;
 
 ### Question 35
 ! - NOT
+
 & - AND
+
 | - OR
+
 ^ - XOR
+
 && - Conditional AND
+
 || - Conditional OR
+
 
 ### Question 36
 All even numbers from 0 to 100 not including 100
@@ -191,7 +197,7 @@ Karel
 
 ### Question 42
 x = 99
-x = 199
+y = 199
 
 ### Question 43
 ```
@@ -203,7 +209,7 @@ x = 199
 ```
 
 ### Question 44
-```
+```java
 double myDouble = 1.0 / 4.0;
 System.out.println("1/4 = " + myDouble);
 ```
