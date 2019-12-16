@@ -35,7 +35,7 @@ public turnLeft() {
 FunKarel
 
 #### Question 9
-Run
+run
 
 #### Question 10
 public
@@ -285,7 +285,7 @@ okemonpay
 0
 
 #### Question 65
-
+Mar 9,1250 
 
 #### Question 66
 
@@ -297,25 +297,29 @@ okemonpay
 
 
 #### Question 69
-
+```java
+true
+```
 
 #### Question 70
 
 
 #### Question 71
-
+It doesn't return any values.
 
 #### Question 72
-
+String Index Out of Bounds
 
 #### Question 73
 
 
 #### Question 74
-
+To prevent repeatitive code.
+It's easier to read.
+It's easier to code.
 
 #### Question 75
-
+A Java object is a combination of data and procedures working on the available data.
 
 #### Question 76
 
