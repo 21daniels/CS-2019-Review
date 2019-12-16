@@ -135,55 +135,77 @@ println, print, or printf
 The total is 2424
 
 ### Question 28
-boolean, char, int, long, 
+boolean, char, int, long, byte, short, float
 
 ### Question 29
-
+4
 
 ### Question 30
-
+```
+double tempurature = 70.4;
+```
 
 ### Question 31
-
+8
 
 ### Question 32
 
 
 ### Question 33
-
+5
 
 ### Question 34
-
+!false || !true
 
 ### Question 35
-
+! - NOT
+& - AND
+| - OR
+^ - XOR
+&& - Conditional AND
+|| - Conditional OR
 
 ### Question 36
-
+All even numbers from 0 to 100 not including 100
 
 ### Question 37
-
+10
+7
+4
 
 ### Question 38
-
+5
 
 ### Question 39
-
+Second if statement!
 
 ### Question 40
-
+C
 
 ### Question 41
+```
+Hello
+Karel
 
+```
 
 ### Question 42
-
+x = 99
+x = 199
 
 ### Question 43
+*****
+****
+***
+**
+*
 
 
 ### Question 44
-
+```
+double myDouble = 1.0 / 4.0;
+System.out.println("1/4 = " + myDouble);
+```
 
 ### Question 45
 
