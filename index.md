@@ -158,6 +158,7 @@ double tempurature = 70.4;
 !false || !true
 
 ### Question 35
+```
 ! - NOT
 
 & - AND
@@ -169,7 +170,7 @@ double tempurature = 70.4;
 && - Conditional AND
 
 || - Conditional OR
-
+```
 
 ### Question 36
 All even numbers from 0 to 100 not including 100
