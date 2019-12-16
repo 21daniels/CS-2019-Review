@@ -111,3 +111,10 @@ while (true) {
 ```
 
 ### Question 24
+I would use a for loop
+```
+for (int i = 0; i < 400; i++) {
+} 
+```
+
+### Question 25
