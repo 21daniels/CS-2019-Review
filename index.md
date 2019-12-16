@@ -266,7 +266,11 @@ Nothing, there is no return statement.
 
 
 #### Question 60
-
+```
+#####
+#####
+#####
+```
 
 #### Question 61
 
@@ -275,10 +279,10 @@ Nothing, there is no return statement.
 
 
 #### Question 63
-
+okemonpay
 
 #### Question 64
-
+0
 
 #### Question 65
 
