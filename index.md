@@ -135,4 +135,176 @@ println, print, or printf
 The total is 2424
 
 ### Question 28
-boolean, char, int, 
+boolean, char, int, long, 
+
+### Question 29
+
+
+### Question 30
+
+
+### Question 31
+
+
+### Question 32
+
+
+### Question 33
+
+
+### Question 34
+
+
+### Question 35
+
+
+### Question 36
+
+
+### Question 37
+
+
+### Question 38
+
+
+### Question 39
+
+
+### Question 40
+
+
+### Question 41
+
+
+### Question 42
+
+
+### Question 43
+
+
+### Question 44
+
+
+### Question 45
+
+
+### Question 46
+
+
+### Question 47
+
+
+### Question 48
+
+
+### Question 49
+
+
+### Question 50
+
+
+### Question 51
+
+
+### Question 52
+
+
+### Question 53
+
+
+### Question 54
+
+
+### Question 55
+
+
+### Question 56
+
+
+### Question 57
+
+
+### Question 58
+
+
+### Question 59
+
+
+### Question 60
+
+
+### Question 61
+
+
+### Question 62
+
+
+### Question 63
+
+
+### Question 64
+
+
+### Question 65
+
+
+### Question 66
+
+
+### Question 67
+
+
+### Question 68
+
+
+### Question 69
+
+
+### Question 70
+
+
+### Question 71
+
+
+### Question 72
+
+
+### Question 73
+
+
+### Question 74
+
+
+### Question 75
+
+
+### Question 76
+
+
+### Question 77
+
+
+### Question 78
+
+
+### Question 79
+
+
+### Question 80
+
+
+### Question 81
+
+
+### Question 82
+
+
+### Question 83
+
+
+### Question 84
+
+
+### Question 85
+
+
