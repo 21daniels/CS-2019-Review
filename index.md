@@ -92,7 +92,7 @@ for (int i = 0; i < 9; i++) {
 ```
 
 #### Question 21
-Karel will keep spinning to the left infinitely
+Karel will keep spinning to the left infinitely.
 
 #### Question 22
 ```java
@@ -114,7 +114,7 @@ while (true) {
 ```
 
 #### Question 24
-I would use a for loop
+I would use a for loop.
 ```java
 for (int i = 0; i < 400; i++) {
 } 
@@ -173,12 +173,15 @@ double tempurature = 70.4;
 ```
 
 #### Question 36
-All even numbers from 0 to 100 not including 100
+All even numbers from 0 to 100 not including 100.
 
 #### Question 37
 10
+
 7
+
 4
+
 
 #### Question 38
 5
@@ -198,7 +201,9 @@ Karel
 
 #### Question 42
 x = 99
+
 y = 199
+
 
 #### Question 43
 ```
@@ -216,43 +221,49 @@ System.out.println("1/4 = " + myDouble);
 ```
 
 #### Question 45
-
+9
 
 #### Question 46
-
+"find tower", because you don't put spaces in method names.
 
 #### Question 47
-
+"10TimesMove"
 
 #### Question 48
-
+Letters
 
 #### Question 49
-
+A bug could be caused when you compare strings with "==" instead of ".equals()".
 
 #### Question 50
-
+```
+Welcome to my adding machine!
+2
+4
+8
+16
+```
 
 #### Question 51
-
+Data that in passed into a method.
 
 #### Question 52
-
+A set of code that can be ran multiple times or whenever it's called.
 
 #### Question 53
-
+The standard of java code commenting.
 
 #### Question 54
-
+A value that is outputed from a method.
 
 #### Question 55
-
+Void means a method doesn't return a value.
 
 #### Question 56
-
+18
 
 #### Question 57
-
+Nothing
 
 #### Question 58
 
