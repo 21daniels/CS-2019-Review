@@ -1,6 +1,8 @@
 ## Computer Science F2019 Semester Review Units 1-5
 
 ### Question 1
+
+
 ### Question 2
 Everything in the method needs to be indented.
 
@@ -119,3 +121,18 @@ for (int i = 0; i < 400; i++) {
 ```
 
 ### Question 25
+I would use a while loop
+```
+while(ballIsPresent()) {
+    takeBall();
+}
+```
+
+### Question 26
+println, print, or printf
+
+### Question 27
+The total is 2424
+
+### Question 28
+boolean, char, int, 
